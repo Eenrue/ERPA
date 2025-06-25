@@ -22,7 +22,7 @@ For Error-Aware embedding, we propose ERPA (ERror PAinting Model), enhancing err
 
 ├── scripts/ # Training and evaluation scripts
 
-├── weightsd/ # Model weights
+├── weights/ # Model weights
 
 └── README.md
 

@@ -84,7 +84,7 @@ for epoch in range(EPOCHS):
         print(f"→ Best model saved with accuracy: {best_acc*100:.2f}%")
 
 Path("results").mkdir(exist_ok=True)
-json_path = f"├── results/ # Evaluation results/result_encode_{ENCODE_TYPE}_DCSS_size_7_sparsity{SPARSITY}_flip{FLIP_PROB}.json"
+json_path = f"results/result_encode_{ENCODE_TYPE}_DCSS_size_7_sparsity{SPARSITY}_flip{FLIP_PROB}.json"
 with open(json_path, 'w') as f:
     json.dump({
         "permutation_type": ENCODE_TYPE,

@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Robust Error-Aware Digital Signature via Deep Watermarking Model</h1>
   
-[**Hyunwook Choi**](https://github.com/Eenrue)<sup>1</sup> · [**Sangyun Won**](https://github.com/wonsang4232)<sup>1</sup> · [**Daeyeon Hwang**](https://github.com/neoqp)<sup>1</sup> · [**Junhyeok Choi**](https://github.com/chlwnsgurg)<sup>1</sup>
+[**Hyunwook Choi**](https://github.com/Eenrue)<sup>1</sup> · [**Sangyun Won**](https://github.com/comibear)<sup>1</sup> · [**Daeyeon Hwang**](https://github.com/neoqp)<sup>1</sup> · [**Junhyeok Choi**](https://github.com/chlwnsgurg)<sup>1</sup>
 
 <sup>1</sup>Korea University
 

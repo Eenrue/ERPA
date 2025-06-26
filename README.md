@@ -35,5 +35,5 @@ For Error-Aware embedding, we propose ERPA (ERror PAinting Model), enhancing err
   author={Hyunwook Choi and Sangyun Won and Daeyeon Hwang and Junhyeok Choi},
   year={2025},
   institution={Korea University},
-  note={\url{https://github.com/your-repo-link}}
+  note={\url{https://github.com/Eenrue/ERPA}}
 }

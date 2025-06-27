@@ -3,7 +3,7 @@ import torch.nn as nn
 from torch.utils.data import Dataset
 import numpy as np
 
-DCSS = [1, 3, 7, 12, 20, 30]  # Fixed for ERPA, as our SOTA permutation
+DCSS = [1, 3, 7, 12, 20, 30]  # Distinct Circular Subsum Sequences. Fixed for ERPA, as our SOTA permutation
 DCSS_SIZE = 7  # Using SOTA permutation size as default, If your environment has higher error rate than 10%, we recommend to be lower than 7.
 
 # Flip bits with given probability

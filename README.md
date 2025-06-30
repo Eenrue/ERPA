@@ -30,8 +30,8 @@ For Error-Aware embedding, we propose ERPA (ERror PAinting Model), enhancing err
 ## 📌 Citation
 
 ```bibtex
-@misc{choi2025erpa,
-  title={Robust Error-Aware Digital Signature via Deep Watermarking Model},
+@misc{choi2025readme,
+  title={README: Robust Error-Aware Digital Signature via Deep Watermarking Model},
   author={Hyunwook Choi and Sangyun Won and Daeyeon Hwang and Junhyeok Choi},
   year={2025},
   institution={Korea University},

@@ -15,7 +15,7 @@
 
 ## 🎨 ERPA (ERror PAinting Module) Overview
 <div align="center">
-<img src="assets/ERPA.jpg" width="80%" height="80%"/>
+<img src="assets/ERPA.jpg" width="80%"/>
 </div>
 To enable error-aware watermarking suitable for cryptographic use cases, we propose ERPA, a novel mechanism designed to improve the bit-level reliability of watermark decoding under distortion. 
 ERPA enhances bit-level watermark reliability through a deterministic encoder and a noise-robust neural decoder. 

@@ -6,7 +6,7 @@
 <sup>1</sup>Korea University
 
 
-<a href="https://arxiv.org/abs"><img src='https://img.shields.io/badge/arXiv-README-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/abs/2507.04495"><img src='https://img.shields.io/badge/arXiv-README-red' alt='Paper PDF'></a>
 <a href='https://readme-2025.github.io'><img src='https://img.shields.io/badge/Project_Page-README-green' alt='Project Page'></a>
 
 </div>

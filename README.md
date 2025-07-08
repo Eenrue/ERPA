@@ -32,11 +32,13 @@ The encoder spatially distributes error vectors using a Distinct Circular Subsum
 ## 📌 Citation
 
 ```bibtex
-@misc{choi2025readme,
-  title={README: Robust Error-Aware Digital Signature via Deep Watermarking Model},
-  author={Hyunwook Choi and Sangyun Won and Daeyeon Hwang and Junhyeok Choi},
-  year={2025},
-  institution={Korea University},
-  note={\url{https://github.com/Eenrue/ERPA}}
+@misc{choi2025readmerobusterrorawaredigital,
+      title={README: Robust Error-Aware Digital Signature Framework via Deep Watermarking Model}, 
+      author={Hyunwook Choi and Sangyun Won and Daeyeon Hwang and Junhyeok Choi},
+      year={2025},
+      eprint={2507.04495},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2507.04495}, 
 }
 ```
